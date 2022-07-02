@@ -1,0 +1,106 @@
+*{
+    padding: 0%;
+    margin: 0%;  
+}
+@import url('https://fonts.googleapis.com/css2?family=Arima&family=Roboto:ital,wght@1,100&family=Splash&family=The+Nautigal&display=swap');body{
+    display: flex;
+}
+#backGroundImage{
+    width: 700px;
+    height: 650px;
+    text-align: right;
+    /* padding-top: 10vh; */
+    margin: 5px 5px 5px 5px;
+}
+#parent{
+    /*background-color: gray;*/
+    /* width: 100vw; */
+    /* height: 400vh; */
+    /* text-align: center; */
+    /* padding-top: 20vh; */
+}
+#seg-1{
+    background-color: grey;
+    margin: 20vh 5px 10px 20vh;
+}
+#titleName{
+    text-indent: 12.5vw;
+    padding-top: 40vh;
+    /* font-family: 'Splash', cursive; */
+    font-family: 'The Nautigal', cursive;
+    color: white;
+}
+#titleDescription{
+    text-indent: 8vw;
+    padding-top: 2vh;
+    color: white;
+}
+#viewWork{
+        background-image: none;
+        border: 2px solid black;
+        color: rgb(0, 238, 255);
+        padding: 10px 225px;
+        text-align: center;
+        /* display: inline-block; */
+        font-size: 20px;
+        margin: 10px 30px;
+        cursor: pointer;
+        font-family: 'The Nautigal', cursive;
+        text-decoration: solid;
+}
+a:hover{
+    color: chocolate;
+    text-decoration: none;
+}
+#seg-2{
+    background-color: grey;
+    margin: 20vh 5px 10px 20vh;
+}
+#ourWork{
+    text-align: center;
+    /* padding-top: 50vh; */
+    background-color: white;
+}
+#firstImage{
+    width: 900px;
+    height: 600px;
+    margin: 10px 10px 10px 10px;
+}
+#secondImage{
+    width: 900px;
+    height: 600px;
+    margin: 10px 10px 10px 10px;
+}
+#firstImageName{
+    text-align: center;
+    background-color: white;
+    font-size: 64px;
+}
+#seg-3{
+    background-color: grey;
+    margin: 20vh 5px 10px 20vh;
+}
+#thirdImage{
+    width: 900px;
+    height: 1200px;
+    margin: 10px 10px 10px 10px;
+}
+#secondImageName{
+    text-align: center;
+    background-color: white;
+    font-size: 64px;
+}
+#seg-4{
+    background-color: grey;
+    margin: 20vh 5px 10px 20vh;
+}
+#fourthImage{
+    width: 900px;
+    height: 600px;
+    margin: 10px 10px 10px 10px;
+}
+#thirdImageName{
+    text-align: center;
+    background-color: white;
+    font-size: 64px;
+}
